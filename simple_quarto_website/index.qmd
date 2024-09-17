@@ -1,0 +1,93 @@
+---
+title: "simple_quarto_website"
+
+toc: true
+toc-expand: 3
+toc-title: Table of Contents
+
+bibliography: ./reference.bib
+---
+
+This is a Quarto website.
+
+# Lorem 
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. 
+
+*Porttitor augue conubia platea mollis habitasse suscipit dolor.*
+
+ **Leo quisque mus libero etiam nibh maximus condimentum.** 
+
+ ***Aliquet congue elementum quis tincidunt orci lobortis pellentesque urna.*** 
+
+ Lorem ipsum odor amet, consectetuer adipiscing ^elit^. 
+
+ Porttitor augue conubia platea mollis habitasse suscipit ~dolor~. 
+
+ Leo quisque mus libero etiam nibh ~~maximus condimentum.~~
+
+## Ipsum 
+
+|  Aliquet congue elementum | Quis tincidunt orci |
+|:-------------------------:|:-------------------:|
+| ** is efficitur fermentum facilisi; tincidunt fames purus. Dis efficitur fermentum facilisi; tincidunt fames purus.** | *Imperdiet praesent cras nunc quam condimentum orci dictumst porttitor. Tortor ante vulputate finibus dignissim nam*|
+
+### Amet
+
+* Ad placerat at feugiat
+    + elementum luctus ante finibus
+    + d placerat at feugiat elementum 
+        - Aluctus ante finibus
+        - Hendrerit malesuada varius tortor pretium posuere vulputate
+
+##  consectetuer 
+
+in eros posuer $x^2 + y^2 = z^2$ Condimentum mauris nullam 
+
+Luctus leo dis aenean molestie vestibulum vulputate egestas. Amet elit aliquam eu tempus hendrerit mi rutrum.Mi lacinia turpis dapibus sit dolor ultricies. Luctus leo dis aenean molestie vestibulum vulputate egestas. Amet eli 
+
+$$
+x^2 + y^2 = z^2
+$$
+
+
+Amet elit aliquam eu tempus hendrerit mi rutrum[^1]
+
+[^1]: Ornare vehicula mus libero, aliquet metus elementum condimentum et.Curabitur nascetur purus habitant, duis nam porttitor facilisis. Ornare vehicula mus libero, aliquet metus elementum condimentum et.Curabitur nascetur purus habitant, duis nam porttitor facilisis.
+
+
+### eros 
+
+> Ad placerat at feugiat elementum luctus ante finibus. Hendrerit malesuada varius tortor pretium posuere vulputate. Mollis rutrum posuere litora aliquam porta eget fermentum duis.
+
+```{mermaid}
+flowchart LR
+  A[tempus] --> B(adipiscing)
+  B --> C{mauris}
+  C --> D[rutrum one]
+  C --> E[nullam two] 
+  C --> F[aliquet three]
+
+```
+
+## dapibus
+
+
+::: {#fig-animals layout-ncol=2}
+
+![Penguin](./images/my_image.jpeg){#fig-penguin}
+
+![Luna](./images/luna.png){#fig-luna}
+
+Animals
+:::
+
+### rutrum
+[@9519033]
+
+[@arora2022deep]
+
+### posuere
+
+{{< video ./images/mov_bbb.mp4 >}}
+

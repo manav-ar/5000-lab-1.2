@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#ipsum",
+    "href": "index.html#ipsum",
+    "title": "simple_quarto_website",
+    "section": "Ipsum",
+    "text": "Ipsum\n\n\n\n\n\n\n\nAliquet congue elementum\nQuis tincidunt orci\n\n\n\n\n** is efficitur fermentum facilisi; tincidunt fames purus. Dis efficitur fermentum facilisi; tincidunt fames purus.**\nImperdiet praesent cras nunc quam condimentum orci dictumst porttitor. Tortor ante vulputate finibus dignissim nam\n\n\n\n\nAmet\n\nAd placerat at feugiat\n\nelementum luctus ante finibus\nd placerat at feugiat elementum\n\nAluctus ante finibus\nHendrerit malesuada varius tortor pretium posuere vulputate"
+  },
+  {
+    "objectID": "index.html#consectetuer-adipiscing",
+    "href": "index.html#consectetuer-adipiscing",
+    "title": "simple_quarto_website",
+    "section": "consectetuer adipiscing",
+    "text": "consectetuer adipiscing\nin eros posuer \\(x^2 + y^2 = z^2\\) Condimentum mauris nullam\nLuctus leo dis aenean molestie vestibulum vulputate egestas. Amet elit aliquam eu tempus hendrerit mi rutrum.Mi lacinia turpis dapibus sit dolor ultricies. Luctus leo dis aenean molestie vestibulum vulputate egestas. Amet eli\n\\[\nx^2 + y^2 = z^2\n\\]\nAmet elit aliquam eu tempus hendrerit mi rutrum1\n\neros posuere\n\nAd placerat at feugiat elementum luctus ante finibus. Hendrerit malesuada varius tortor pretium posuere vulputate. Mollis rutrum posuere litora aliquam porta eget fermentum duis.\n\n&lt;tr&gt;\n    &lt;td&gt;\\\n        &lt;h1  id=\"C1\"&gt;Lorem &lt;/h1&gt;\n        \n          &lt;/p&gt;\n        \n    &lt;/td&gt;\n    &lt;td&gt;\n        &lt;h2  id=\"C2\"&gt;Ipsum &lt;/h2&gt;\n\n        &lt;p id=\"p2\" style=\"background-color:rgb(221, 164, 95)\"&gt; Lorem ipsum odor amet, consectetuer adipiscing elit. Condimentum mauris nullam in eros posuere.Lorem ipsum odor amet, consectetuer adipiscing elit. Condimentum mauris nullam in eros posuere. &lt;br&gt;&lt;br&gt; &lt;span style=\"font-size: x-large;\"&gt;aliquet metus elementum condimentum et.&lt;br&gt; Lorem ipsum odor amet, consectetuer adipiscing elit.&lt;/span&gt;&lt;br&gt;&lt;br&gt;Mi lacinia turpis dapibus sit dolor ultricies. Luctus leo dis aenean molestie vestibulum vulputate egestas. Amet elit aliquam eu tempus hendrerit mi rutrum.Mi lacinia turpis dapibus sit dolor ultricies. Luctus leo dis aenean molestie vestibulum vulputate egestas. Amet elit aliquam eu tempus hendrerit mi rutrum. &lt;/p&gt;\n    &lt;/td&gt;\n    &lt;/tr&gt;\n    &lt;tr&gt;\n    &lt;td&gt;\n        &lt;h3  id=\"C3\"&gt;Amet &lt;/h3&gt; \n\n        &lt;p id=\"p3\" style=\"font-family: cursive;\"&gt; &lt;em&gt;Dis efficitur fermentum facilisi; tincidunt fames purus. Dis efficitur fermentum facilisi; tincidunt fames purus. Imperdiet praesent cras nunc quam condimentum orci dictumst porttitor. Tortor ante vulputate finibus dignissim nam. &lt;/em&gt; &lt;br&gt;\n        &lt;strong&gt;Ad placerat at feugiat elementum luctus ante finibus. Ad placerat at feugiat elementum luctus ante finibus. Hendrerit malesuada varius tortor pretium posuere vulputate. Mollis rutrum posuere litora aliquam porta eget fermentum duis. &lt;/strong&gt; &lt;br&gt;\n        \n        &lt;ol&gt;\n            &lt;li&gt; interger&lt;/li&gt;\n            &lt;li&gt; leo&lt;/li&gt;\n            &lt;li&gt; bibendum&lt;/li&gt;\n            &lt;li&gt; risus&lt;/li&gt;\n            &lt;/ol&gt;\n\n        &lt;ul&gt;\n            &lt;li&gt;fringilla &lt;/li&gt;\n            &lt;li&gt;consequat&lt;/li&gt;\n            &lt;li&gt;dui&lt;/li&gt;\n        &lt;/ul&gt;\n        &lt;/p&gt;\n    &lt;/td&gt;\n    &lt;td&gt;\n        &lt;table&gt;\n            &lt;tr&gt;\n                &lt;td&gt;\n                    &lt;img src=\"../../images/photo.jpeg\" style=\"width:320px;height:440px;\"&gt;&lt;br&gt;\n                &lt;/td&gt;\n                &lt;td&gt;\n                    &lt;img src=\"luna.png\" alt=\"The dog Luna\" style=\"width:400px;height:400px;\"&gt;&lt;br&gt; &lt;br&gt;\n\n                    &lt;a href=\"https://analytics.georgetown.edu/\"&gt;Feugiat metus ex dui fames, tempor tempus dolor conubia aenean. &lt;/a&gt;&lt;br&gt;\n                &lt;/td&gt;\n                &lt;td&gt;\n                    &lt;video width=\"400\" height=\"400\" controls&gt;&lt;source src=\"mov_bbb.mp4\" type=\"video/mp4\"&gt;Your browser does not support the video tag.&lt;/video&gt; &lt;br&gt; &lt;br&gt;\n                    &lt;a href=\"https://www.google.com\" target=\"_blank\"&gt;Duis aute irure dolor in reprehenderit in voluptate velit.&lt;/a&gt;\n\n                &lt;/td&gt;\n            &lt;/tr&gt;\n        &lt;/table&gt;\n        \n    &lt;/td&gt;\n\n&lt;/tr&gt;"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nOrnare vehicula mus libero, aliquet metus elementum condimentum et.Curabitur nascetur purus habitant, duis nam porttitor facilisis. Ornare vehicula mus libero, aliquet metus elementum condimentum et.Curabitur nascetur purus habitant, duis nam porttitor facilisis.↩︎"
+  },
+  {
+    "objectID": "index.html#consectetuer",
+    "href": "index.html#consectetuer",
+    "title": "simple_quarto_website",
+    "section": "consectetuer",
+    "text": "consectetuer\nin eros posuer \\(x^2 + y^2 = z^2\\) Condimentum mauris nullam\nLuctus leo dis aenean molestie vestibulum vulputate egestas. Amet elit aliquam eu tempus hendrerit mi rutrum.Mi lacinia turpis dapibus sit dolor ultricies. Luctus leo dis aenean molestie vestibulum vulputate egestas. Amet eli\n\\[\nx^2 + y^2 = z^2\n\\]\nAmet elit aliquam eu tempus hendrerit mi rutrum1\n\neros\n\nAd placerat at feugiat elementum luctus ante finibus. Hendrerit malesuada varius tortor pretium posuere vulputate. Mollis rutrum posuere litora aliquam porta eget fermentum duis.\n\n\n\n\n\n\nflowchart LR\n  A[tempus] --&gt; B(adipiscing)\n  B --&gt; C{mauris}\n  C --&gt; D[rutrum one]\n  C --&gt; E[nullam two] \n  C --&gt; F[aliquet three]"
+  },
+  {
+    "objectID": "index.html#dapibus",
+    "href": "index.html#dapibus",
+    "title": "simple_quarto_website",
+    "section": "dapibus",
+    "text": "dapibus\n\n\n\n\n\n\n\n\n\n\n\n(a) Penguin\n\n\n\n\n\n\n\n\n\n\n\n(b) Luna\n\n\n\n\n\n\n\nFigure 1: Animals\n\n\n\n\nrutrum\n(Liu et al. 2021)\n(Arora 2022)\n\n\nposuere"
+  },
+  {
+    "objectID": "slides/slides.html#lorem",
+    "href": "slides/slides.html#lorem",
+    "title": "Component 6",
+    "section": "Lorem",
+    "text": "Lorem\n(Liu et al. 2021)\n(Arora 2022)\n\n\n\n\n\n\n\n\nArora, Manav. 2022. “Deep Learning for Computer Chess (Part 1).”\n\n\nLiu, Haohui, Manav Arora, Kang Jian, and Lu Zhao. 2021. “Automatic IV Curve Diagnosis with Deep Learning.” In 2021 IEEE 48th Photovoltaic Specialists Conference (PVSC), 2242–46. https://doi.org/10.1109/PVSC43889.2021.9519033."
+  },
+  {
+    "objectID": "slides/slides.html#ipsum",
+    "href": "slides/slides.html#ipsum",
+    "title": "Component 6",
+    "section": "Ipsum",
+    "text": "Ipsum\n\n\n\n\n\n\n\n\n\n\n\n(a) Penguin\n\n\n\n\n\n\n\n\n\n\n\n(b) Luna\n\n\n\n\n\n\n\nFigure 1: Animals"
+  },
+  {
+    "objectID": "slides/slides.html#amet",
+    "href": "slides/slides.html#amet",
+    "title": "Component 6",
+    "section": "Amet",
+    "text": "Amet\n(this code block does not run locally due to issues in my local R distribution, however when the exact same code is run on posit.cloud it renders the deliverables. Please view component6.html in the _site/slides/ folder to view the correct output. Thanks!)\n{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE, collapse = TRUE, comment = NA)\n```{r sin_wave, fig.cap=“Sine Wave Plot”} #| code-fold: true #| code-summary: “Show the code” library(ggplot2)"
+  },
+  {
+    "objectID": "slides/sample.html#ipsum",
+    "href": "slides/sample.html#ipsum",
+    "title": "Component 6",
+    "section": "Ipsum",
+    "text": "Ipsum\n\n\n\n\n\n\n\n\n\n\n\n(a) Penguin\n\n\n\n\n\n\n\n\n\n\n\n(b) Luna\n\n\n\n\n\n\n\nFigure 1: Animals"
+  },
+  {
+    "objectID": "slides/sample.html#amet",
+    "href": "slides/sample.html#amet",
+    "title": "Component 6",
+    "section": "Amet",
+    "text": "Amet\n{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE, collapse = TRUE, comment = NA)\n```{r sin_wave, fig.cap=“Sine Wave Plot”} #| code-fold: true #| code-summary: “Show the code” library(ggplot2)"
+  },
+  {
+    "objectID": "slides/sample.html#lorem",
+    "href": "slides/sample.html#lorem",
+    "title": "Component 6",
+    "section": "Lorem",
+    "text": "Lorem\n(Liu et al. 2021)\n(Arora 2022)\n\n\n\n\n\n\n\n\nArora, Manav. 2022. “Deep Learning for Computer Chess (Part 1).”\n\n\nLiu, Haohui, Manav Arora, Kang Jian, and Lu Zhao. 2021. “Automatic IV Curve Diagnosis with Deep Learning.” In 2021 IEEE 48th Photovoltaic Specialists Conference (PVSC), 2242–46. https://doi.org/10.1109/PVSC43889.2021.9519033."
+  }
+]
