@@ -1,0 +1,155 @@
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ git add .
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ git commit -m "Lab 1.2"
+[main c1fdb93] Lab 1.2
+ 143 files changed, 19644 insertions(+)
+ create mode 100644 simple_quarto_website/.gitignore
+ create mode 100644 simple_quarto_website/.ipynb_checkpoints/about-checkpoint.ipynb
+ create mode 100644 simple_quarto_website/_quarto.yml
+ create mode 100644 simple_quarto_website/_site/about.html
+ create mode 100644 simple_quarto_website/_site/images/luna.png
+ create mode 100644 simple_quarto_website/_site/images/mov_bbb.mp4
+ create mode 100644 simple_quarto_website/_site/images/my_image.jpeg
+ create mode 100644 simple_quarto_website/_site/index.html
+ create mode 100644 simple_quarto_website/_site/search.json
+ create mode 100644 simple_quarto_website/_site/site_libs/bootstrap/bootstrap-icons.css
+ create mode 100644 simple_quarto_website/_site/site_libs/bootstrap/bootstrap-icons.woff
+ create mode 100644 simple_quarto_website/_site/site_libs/bootstrap/bootstrap.min.css
+ create mode 100644 simple_quarto_website/_site/site_libs/bootstrap/bootstrap.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/clipboard/clipboard.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-contrib/videojs/video-js.css
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-contrib/videojs/video.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-diagram/mermaid-init.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-diagram/mermaid.css
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-diagram/mermaid.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/anchor.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/light-border.css
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/popper.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/quarto-html.min.css
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/quarto-syntax-highlighting.css
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/quarto.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/tabby.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/tippy.css
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-html/tippy.umd.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-nav/headroom.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-nav/quarto-nav.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-search/autocomplete.umd.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-search/fuse.min.js
+ create mode 100644 simple_quarto_website/_site/site_libs/quarto-search/quarto-search.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/reset.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/reveal.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/reveal.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/reveal.esm.js.map
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/reveal.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/reveal.js.map
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/league-gothic/LICENSE
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.eot
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.ttf
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/league-gothic/league-gothic.woff
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/LICENSE
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.eot
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.ttf
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.woff
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.woff
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.eot
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.ttf
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.woff
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/fonts/source-sans-pro/source-sans-pro.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/dist/theme/quarto.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/highlight/highlight.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/highlight/highlight.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/highlight/monokai.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/highlight/plugin.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/highlight/zenburn.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/markdown/markdown.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/markdown/markdown.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/markdown/plugin.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/math/katex.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/math/math.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/math/math.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/math/mathjax2.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/math/mathjax3.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/math/plugin.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/notes/notes.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/notes/notes.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/notes/plugin.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/notes/speaker-view.html
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/pdf-export/pdfexport.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/pdf-export/plugin.yml
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/quarto-line-highlight/plugin.yml
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/quarto-support/footer.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/quarto-support/plugin.yml
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/quarto-support/support.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/reveal-menu/menu.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/reveal-menu/menu.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/reveal-menu/plugin.yml
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/reveal-menu/quarto-menu.css
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/reveal-menu/quarto-menu.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/search/plugin.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/search/search.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/search/search.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/zoom/plugin.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/zoom/zoom.esm.js
+ create mode 100644 simple_quarto_website/_site/site_libs/revealjs/plugin/zoom/zoom.js
+ create mode 100644 simple_quarto_website/_site/slides/Component 6.html
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/MathJax.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/clipboard.min.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/footer.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/light-border.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/line-highlight.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/line-highlight.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/luna.png
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/math.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/menu.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/menu.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/my_image.jpeg
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/notes.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/pdfexport.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/popper.min.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/quarto-html.min.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/quarto-menu.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/quarto-menu.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/quarto-preview.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/quarto-syntax-highlighting.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/quarto.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/reset.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/reveal.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/reveal.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/search.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/sin_wave-1.png
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/support.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/tabby.min.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/tippy.css
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/tippy.umd.min.js.download
+ create mode 100644 simple_quarto_website/_site/slides/Component 6_files/zoom.js.download
+ create mode 100644 simple_quarto_website/_site/slides/images/luna.png
+ create mode 100644 simple_quarto_website/_site/slides/images/my_image.jpeg
+ create mode 100644 simple_quarto_website/_site/slides/slides.html
+ create mode 100644 simple_quarto_website/_site/slides/slides_files/figure-revealjs/27dbad49-336d-4261-9605-0044a2a1d965-1-luna.png
+ create mode 100644 simple_quarto_website/_site/slides/slides_files/figure-revealjs/27dbad49-336d-4261-9605-0044a2a1d965-2-my_image.jpeg
+ create mode 100644 simple_quarto_website/about.ipynb
+ create mode 100644 simple_quarto_website/about.qmd
+ create mode 100644 simple_quarto_website/images/luna.png
+ create mode 100644 simple_quarto_website/images/mov_bbb.mp4
+ create mode 100644 simple_quarto_website/images/my_image.jpeg
+ create mode 100644 simple_quarto_website/index.qmd
+ create mode 100644 simple_quarto_website/reference.bib
+ create mode 100644 simple_quarto_website/slides/.ipynb_checkpoints/slides-checkpoint.ipynb
+ create mode 100644 simple_quarto_website/slides/images/luna.png
+ create mode 100644 simple_quarto_website/slides/images/my_image.jpeg
+ create mode 100644 simple_quarto_website/slides/slides.ipynb
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ git push
+Username for 'https://github.com': manav-ar
+Password for 'https://manav-ar@github.com':
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/manav-ar/5000-lab-1.2.git/'
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ git add .
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ git push
