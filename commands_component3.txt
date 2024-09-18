@@ -1,0 +1,31 @@
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp$ cd 5000-lab-1.2/
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ ls
+README.md  simple_quarto_website
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2$ cd simple_quarto_website/
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2/simple_quarto_website$ rm styles.css
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2/simple_quarto_website$ mkdir images
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2/simple_quarto_website$ mkdir slides
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2/simple_quarto_website$ quarto convert about.qmd
+Converted to about.ipynb
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2/simple_quarto_website$ ls
+_quarto.yml  about.qmd  index.qmd      slides
+about.ipynb  images     reference.bib
+(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp/5000-lab-1.2/simple_quarto_website$ more reference.bib
+@INPROCEEDINGS{9519033,
+  author={Liu, Haohui and Arora, Manav and Jian, Kang
+and Zhao, Lu},
+  booktitle={2021 IEEE 48th Photovoltaic Specialists Conference (PVSC)},
+  title={Automatic IV Curve Diagnosis with Deep Learning},
+  year={2021},
+  volume={},
+  number={},
+  pages={2242-2246},
+  keywords={Deep learning;Photovoltaic systems;Training;Solid modeling;Surface resistance;Transfer learning;Throughput;photovoltaic;IV curve;deep learning;AI;underperformance diagnosis},
+  doi={10.1109/PVSC43889.2021.9519033}}
+
+@article{arora2022deep,
+title={Deep learning for computer chess (part 1)},
+author={Arora, Manav},
+year={2022},
+publisher={Nanyang Technological University}
+}
