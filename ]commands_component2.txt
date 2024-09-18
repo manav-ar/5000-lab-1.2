@@ -1,8 +1,0 @@
-(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp$ git clone https://github.com/manav-ar/5000-lab-1.2.git
-Cloning into '5000-lab-1.2'...
-remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-Receiving objects: 100% (3/3), done.
-(base) manav@LAPTOP-VNNR6OAH:/mnt/c/Users/manav/OneDrive/Documents/MS DSAN/5000/labs/lab-1.2-git-quarto-scp$
-
